@@ -11,8 +11,8 @@
 #minio/minio
 #jenkins/jenkins
 #gitlab/gitlab-ce
-bitnami/kafka
-bitnami/zookeeper
-dushixiang/kafka-map
-rabbitmq
-xuxueli/xxl-job-admin
+#bitnami/kafka
+#bitnami/zookeeper
+#dushixiang/kafka-map
+#rabbitmq
+xuxueli/xxl-job-admin:2.4.1

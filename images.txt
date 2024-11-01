@@ -5,9 +5,14 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql
-postgres
-redis
-mongo
-minio/minio
-jenkins/jenkins
-gitlab/gitlab-ce
+#postgres
+#redis
+#mongo
+#minio/minio
+#jenkins/jenkins
+#gitlab/gitlab-ce
+bitnami/kafka
+bitnami/zookeeper
+dushixiang/kafka-map
+rabbitmq
+xuxueli/xxl-job-admin

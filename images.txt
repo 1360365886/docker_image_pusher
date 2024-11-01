@@ -4,5 +4,10 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql
-
+#mysql
+postgres
+redis
+mongo
+minio/minio
+jenkins/jenkins
+gitlab/gitlab-ce

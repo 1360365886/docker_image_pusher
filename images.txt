@@ -15,4 +15,5 @@
 #bitnami/zookeeper
 #dushixiang/kafka-map
 #rabbitmq
-xuxueli/xxl-job-admin:2.4.1
+#xuxueli/xxl-job-admin:2.4.1
+adoptopenjdk/openjdk8

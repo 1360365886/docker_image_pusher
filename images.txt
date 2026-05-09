@@ -18,4 +18,5 @@
 #xuxueli/xxl-job-admin:2.4.1
 #adoptopenjdk/openjdk8
 #rabbitmq
-homeassistant/home-assistant:2026.2.3
+#homeassistant/home-assistant:2026.2.3
+rabbitmq:4.3.0-management
